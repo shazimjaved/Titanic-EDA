@@ -25,9 +25,7 @@ Size: 891 rows × 12 columns
 ✔ Smaller families had higher survival chances
 
 📈 Visualizations
-
-(Upload your charts here with Markdown image tags)
-Example:
+Survival by Gender
 
 ![Survival by Gender](images/survival_by_gender.png)
 
