@@ -47,6 +47,6 @@ Predictive Modeling (Logistic Regression, Random Forest)
 
 Hyperparameter Tuning
 
-🔗 Connect with Me
+Thank-YOU ❤️
 
 
